@@ -1,0 +1,20 @@
+pour connaitre la config sur laa machine :
+  git config --list
+
+[ ressource : https://alvinalexander.com/git/git-show-change-username-email-address/ ]
+------------------------------------------------
+
+compte GOOGLE :
+  mot de passe    : tP3lyaITDLfweFb6h20WTt1mXQlqa
+  @email          : mpagnol.mmiang@gmail.com
+
+
+compte GITHUB
+
+  username        : eifel-mmi
+  prénom          : Francois
+  prénom          : LOUET
+  mot de passe    : f0902e60DG14!8ee495f02b79d7006d2b
+  @email          : mpagnol.mmiang@gmail.com
+
+------------------------------------------------
